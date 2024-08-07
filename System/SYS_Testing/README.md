@@ -1,1 +1,0 @@
-* Add System Test root folder *

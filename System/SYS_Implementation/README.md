@@ -1,1 +1,0 @@
-* Add root folder of System Implementation of our app * 
