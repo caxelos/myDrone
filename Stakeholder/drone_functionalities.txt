@@ -1,0 +1,8 @@
+A drone should have the following features:
+
+1. "Perform smooth landings, which are independent from Several conditions (Weather, carrying
+load).
+2. "Perform smooth takeoffs, which are independent from Several conditions
+(weather, carrying load).
+3. Transport Elements from point A to point B, regardless from Several
+conditions.
